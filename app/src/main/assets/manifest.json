@@ -1,5 +1,5 @@
 {
-  "total_pages": 1668,
+  "total_pages": 1697,
   "files": [
     {
       "surah_num": 1,
@@ -76,10 +76,18 @@
     {
       "surah_num": 2,
       "surah_name": "Al Baqarah",
+      "part_num": 9,
+      "file": "002_09_Al_Baqarah.pdf",
+      "pages": 8,
+      "start_page_index": 66
+    },
+    {
+      "surah_num": 2,
+      "surah_name": "Al Baqarah",
       "part_num": 10,
       "file": "002_10_Al_Baqarah.pdf",
       "pages": 8,
-      "start_page_index": 66
+      "start_page_index": 74
     },
     {
       "surah_num": 2,
@@ -87,7 +95,7 @@
       "part_num": 11,
       "file": "002_11_Al_Baqarah.pdf",
       "pages": 7,
-      "start_page_index": 74
+      "start_page_index": 82
     },
     {
       "surah_num": 2,
@@ -95,7 +103,7 @@
       "part_num": 12,
       "file": "002_12_Al_Baqarah.pdf",
       "pages": 8,
-      "start_page_index": 81
+      "start_page_index": 89
     },
     {
       "surah_num": 2,
@@ -103,7 +111,7 @@
       "part_num": 13,
       "file": "002_13_Al_Baqarah.pdf",
       "pages": 7,
-      "start_page_index": 89
+      "start_page_index": 97
     },
     {
       "surah_num": 2,
@@ -111,7 +119,7 @@
       "part_num": 14,
       "file": "002_14_Al_Baqarah.pdf",
       "pages": 7,
-      "start_page_index": 96
+      "start_page_index": 104
     },
     {
       "surah_num": 2,
@@ -119,7 +127,7 @@
       "part_num": 15,
       "file": "002_15_Al_Baqarah.pdf",
       "pages": 9,
-      "start_page_index": 103
+      "start_page_index": 111
     },
     {
       "surah_num": 2,
@@ -127,7 +135,7 @@
       "part_num": 16,
       "file": "002_16_Al_Baqarah.pdf",
       "pages": 7,
-      "start_page_index": 112
+      "start_page_index": 120
     },
     {
       "surah_num": 2,
@@ -135,7 +143,7 @@
       "part_num": 17,
       "file": "002_17_Al_Baqarah.pdf",
       "pages": 7,
-      "start_page_index": 119
+      "start_page_index": 127
     },
     {
       "surah_num": 2,
@@ -143,7 +151,7 @@
       "part_num": 18,
       "file": "002_18_Al_Baqarah.pdf",
       "pages": 8,
-      "start_page_index": 126
+      "start_page_index": 134
     },
     {
       "surah_num": 2,
@@ -151,7 +159,7 @@
       "part_num": 19,
       "file": "002_19_Al_Baqarah.pdf",
       "pages": 8,
-      "start_page_index": 134
+      "start_page_index": 142
     },
     {
       "surah_num": 3,
@@ -159,7 +167,7 @@
       "part_num": 1,
       "file": "003_01_Aal_e_Imran.pdf",
       "pages": 10,
-      "start_page_index": 142
+      "start_page_index": 150
     },
     {
       "surah_num": 3,
@@ -167,7 +175,7 @@
       "part_num": 2,
       "file": "003_02_Aal_e_Imran.pdf",
       "pages": 6,
-      "start_page_index": 152
+      "start_page_index": 160
     },
     {
       "surah_num": 3,
@@ -175,7 +183,7 @@
       "part_num": 3,
       "file": "003_03_Aal_e_Imran.pdf",
       "pages": 9,
-      "start_page_index": 158
+      "start_page_index": 166
     },
     {
       "surah_num": 3,
@@ -183,7 +191,7 @@
       "part_num": 4,
       "file": "003_04_Aal_e_Imran.pdf",
       "pages": 8,
-      "start_page_index": 167
+      "start_page_index": 175
     },
     {
       "surah_num": 3,
@@ -191,7 +199,7 @@
       "part_num": 5,
       "file": "003_05_Aal_e_Imran.pdf",
       "pages": 9,
-      "start_page_index": 175
+      "start_page_index": 183
     },
     {
       "surah_num": 3,
@@ -199,7 +207,7 @@
       "part_num": 6,
       "file": "003_06_Aal_e_Imran.pdf",
       "pages": 8,
-      "start_page_index": 184
+      "start_page_index": 192
     },
     {
       "surah_num": 3,
@@ -207,7 +215,7 @@
       "part_num": 7,
       "file": "003_07_Aal_e_Imran.pdf",
       "pages": 9,
-      "start_page_index": 192
+      "start_page_index": 200
     },
     {
       "surah_num": 3,
@@ -215,7 +223,7 @@
       "part_num": 8,
       "file": "003_08_Aal_e_Imran.pdf",
       "pages": 9,
-      "start_page_index": 201
+      "start_page_index": 209
     },
     {
       "surah_num": 3,
@@ -223,7 +231,7 @@
       "part_num": 9,
       "file": "003_09_Aal_e_Imran.pdf",
       "pages": 10,
-      "start_page_index": 210
+      "start_page_index": 218
     },
     {
       "surah_num": 3,
@@ -231,7 +239,7 @@
       "part_num": 10,
       "file": "003_10_Aal_e_Imran.pdf",
       "pages": 11,
-      "start_page_index": 220
+      "start_page_index": 228
     },
     {
       "surah_num": 4,
@@ -239,7 +247,7 @@
       "part_num": 1,
       "file": "004_01_An_Nisa.pdf",
       "pages": 10,
-      "start_page_index": 231
+      "start_page_index": 239
     },
     {
       "surah_num": 4,
@@ -247,7 +255,7 @@
       "part_num": 2,
       "file": "004_02_An_Nisa.pdf",
       "pages": 8,
-      "start_page_index": 241
+      "start_page_index": 249
     },
     {
       "surah_num": 4,
@@ -255,7 +263,7 @@
       "part_num": 3,
       "file": "004_03_An_Nisa.pdf",
       "pages": 7,
-      "start_page_index": 249
+      "start_page_index": 257
     },
     {
       "surah_num": 4,
@@ -263,7 +271,7 @@
       "part_num": 4,
       "file": "004_04_An_Nisa.pdf",
       "pages": 10,
-      "start_page_index": 256
+      "start_page_index": 264
     },
     {
       "surah_num": 4,
@@ -271,7 +279,7 @@
       "part_num": 5,
       "file": "004_05_An_Nisa.pdf",
       "pages": 8,
-      "start_page_index": 266
+      "start_page_index": 274
     },
     {
       "surah_num": 4,
@@ -279,7 +287,7 @@
       "part_num": 6,
       "file": "004_06_An_Nisa.pdf",
       "pages": 9,
-      "start_page_index": 274
+      "start_page_index": 282
     },
     {
       "surah_num": 4,
@@ -287,7 +295,7 @@
       "part_num": 7,
       "file": "004_07_An_Nisa.pdf",
       "pages": 8,
-      "start_page_index": 283
+      "start_page_index": 291
     },
     {
       "surah_num": 4,
@@ -295,7 +303,7 @@
       "part_num": 8,
       "file": "004_08_An_Nisa.pdf",
       "pages": 9,
-      "start_page_index": 291
+      "start_page_index": 299
     },
     {
       "surah_num": 4,
@@ -303,7 +311,7 @@
       "part_num": 9,
       "file": "004_09_An_Nisa.pdf",
       "pages": 9,
-      "start_page_index": 300
+      "start_page_index": 308
     },
     {
       "surah_num": 4,
@@ -311,7 +319,7 @@
       "part_num": 10,
       "file": "004_10_An_Nisa.pdf",
       "pages": 7,
-      "start_page_index": 309
+      "start_page_index": 317
     },
     {
       "surah_num": 5,
@@ -319,7 +327,7 @@
       "part_num": 1,
       "file": "005_01_Al_Maidah.pdf",
       "pages": 8,
-      "start_page_index": 316
+      "start_page_index": 324
     },
     {
       "surah_num": 5,
@@ -327,7 +335,7 @@
       "part_num": 2,
       "file": "005_02_Al_Maidah.pdf",
       "pages": 8,
-      "start_page_index": 324
+      "start_page_index": 332
     },
     {
       "surah_num": 5,
@@ -335,7 +343,7 @@
       "part_num": 3,
       "file": "005_03_Al_Maidah.pdf",
       "pages": 8,
-      "start_page_index": 332
+      "start_page_index": 340
     },
     {
       "surah_num": 5,
@@ -343,7 +351,7 @@
       "part_num": 4,
       "file": "005_04_Al_Maidah.pdf",
       "pages": 8,
-      "start_page_index": 340
+      "start_page_index": 348
     },
     {
       "surah_num": 5,
@@ -351,7 +359,7 @@
       "part_num": 5,
       "file": "005_05_Al_Maidah.pdf",
       "pages": 10,
-      "start_page_index": 348
+      "start_page_index": 356
     },
     {
       "surah_num": 5,
@@ -359,7 +367,7 @@
       "part_num": 6,
       "file": "005_06_Al_Maidah.pdf",
       "pages": 9,
-      "start_page_index": 358
+      "start_page_index": 366
     },
     {
       "surah_num": 5,
@@ -367,7 +375,7 @@
       "part_num": 7,
       "file": "005_07_Al_Maidah.pdf",
       "pages": 8,
-      "start_page_index": 367
+      "start_page_index": 375
     },
     {
       "surah_num": 5,
@@ -375,7 +383,7 @@
       "part_num": 8,
       "file": "005_08_Al_Maidah.pdf",
       "pages": 6,
-      "start_page_index": 375
+      "start_page_index": 383
     },
     {
       "surah_num": 6,
@@ -383,7 +391,7 @@
       "part_num": 1,
       "file": "006_01_Al_Anam.pdf",
       "pages": 10,
-      "start_page_index": 381
+      "start_page_index": 389
     },
     {
       "surah_num": 6,
@@ -391,7 +399,7 @@
       "part_num": 2,
       "file": "006_02_Al_Anam.pdf",
       "pages": 7,
-      "start_page_index": 391
+      "start_page_index": 399
     },
     {
       "surah_num": 6,
@@ -399,7 +407,7 @@
       "part_num": 3,
       "file": "006_03_Al_Anam.pdf",
       "pages": 9,
-      "start_page_index": 398
+      "start_page_index": 406
     },
     {
       "surah_num": 6,
@@ -407,7 +415,7 @@
       "part_num": 4,
       "file": "006_04_Al_Anam.pdf",
       "pages": 8,
-      "start_page_index": 407
+      "start_page_index": 415
     },
     {
       "surah_num": 6,
@@ -415,7 +423,7 @@
       "part_num": 5,
       "file": "006_05_Al_Anam.pdf",
       "pages": 9,
-      "start_page_index": 415
+      "start_page_index": 423
     },
     {
       "surah_num": 6,
@@ -423,7 +431,7 @@
       "part_num": 6,
       "file": "006_06_Al_Anam.pdf",
       "pages": 9,
-      "start_page_index": 424
+      "start_page_index": 432
     },
     {
       "surah_num": 6,
@@ -431,7 +439,7 @@
       "part_num": 7,
       "file": "006_07_Al_Anam.pdf",
       "pages": 9,
-      "start_page_index": 433
+      "start_page_index": 441
     },
     {
       "surah_num": 6,
@@ -439,7 +447,7 @@
       "part_num": 8,
       "file": "006_08_Al_Anam.pdf",
       "pages": 8,
-      "start_page_index": 442
+      "start_page_index": 450
     },
     {
       "surah_num": 6,
@@ -447,7 +455,7 @@
       "part_num": 9,
       "file": "006_09_Al_Anam.pdf",
       "pages": 6,
-      "start_page_index": 450
+      "start_page_index": 458
     },
     {
       "surah_num": 6,
@@ -455,7 +463,7 @@
       "part_num": 10,
       "file": "006_10_Al_Anam.pdf",
       "pages": 6,
-      "start_page_index": 456
+      "start_page_index": 464
     },
     {
       "surah_num": 7,
@@ -463,7 +471,7 @@
       "part_num": 1,
       "file": "007_01_Al_Araf.pdf",
       "pages": 11,
-      "start_page_index": 462
+      "start_page_index": 470
     },
     {
       "surah_num": 7,
@@ -471,7 +479,7 @@
       "part_num": 2,
       "file": "007_02_Al_Araf.pdf",
       "pages": 8,
-      "start_page_index": 473
+      "start_page_index": 481
     },
     {
       "surah_num": 7,
@@ -479,7 +487,7 @@
       "part_num": 3,
       "file": "007_03_Al_Araf.pdf",
       "pages": 8,
-      "start_page_index": 481
+      "start_page_index": 489
     },
     {
       "surah_num": 7,
@@ -487,7 +495,7 @@
       "part_num": 4,
       "file": "007_04_Al_Araf.pdf",
       "pages": 6,
-      "start_page_index": 489
+      "start_page_index": 497
     },
     {
       "surah_num": 7,
@@ -495,7 +503,7 @@
       "part_num": 5,
       "file": "007_05_Al_Araf.pdf",
       "pages": 9,
-      "start_page_index": 495
+      "start_page_index": 503
     },
     {
       "surah_num": 7,
@@ -503,7 +511,7 @@
       "part_num": 6,
       "file": "007_06_Al_Araf.pdf",
       "pages": 8,
-      "start_page_index": 504
+      "start_page_index": 512
     },
     {
       "surah_num": 7,
@@ -511,7 +519,7 @@
       "part_num": 7,
       "file": "007_07_Al_Araf.pdf",
       "pages": 9,
-      "start_page_index": 512
+      "start_page_index": 520
     },
     {
       "surah_num": 7,
@@ -519,7 +527,7 @@
       "part_num": 8,
       "file": "007_08_Al_Araf.pdf",
       "pages": 7,
-      "start_page_index": 521
+      "start_page_index": 529
     },
     {
       "surah_num": 7,
@@ -527,7 +535,7 @@
       "part_num": 9,
       "file": "007_09_Al_Araf.pdf",
       "pages": 10,
-      "start_page_index": 528
+      "start_page_index": 536
     },
     {
       "surah_num": 7,
@@ -535,7 +543,7 @@
       "part_num": 10,
       "file": "007_10_Al_Araf.pdf",
       "pages": 7,
-      "start_page_index": 538
+      "start_page_index": 546
     },
     {
       "surah_num": 7,
@@ -543,7 +551,7 @@
       "part_num": 11,
       "file": "007_11_Al_Araf.pdf",
       "pages": 8,
-      "start_page_index": 545
+      "start_page_index": 553
     },
     {
       "surah_num": 7,
@@ -551,7 +559,7 @@
       "part_num": 12,
       "file": "007_12_Al_Araf.pdf",
       "pages": 7,
-      "start_page_index": 553
+      "start_page_index": 561
     },
     {
       "surah_num": 8,
@@ -559,7 +567,7 @@
       "part_num": 1,
       "file": "008_01_Al_Anfal.pdf",
       "pages": 10,
-      "start_page_index": 560
+      "start_page_index": 568
     },
     {
       "surah_num": 8,
@@ -567,7 +575,7 @@
       "part_num": 2,
       "file": "008_02_Al_Anfal.pdf",
       "pages": 8,
-      "start_page_index": 570
+      "start_page_index": 578
     },
     {
       "surah_num": 8,
@@ -575,7 +583,7 @@
       "part_num": 3,
       "file": "008_03_Al_Anfal.pdf",
       "pages": 8,
-      "start_page_index": 578
+      "start_page_index": 586
     },
     {
       "surah_num": 8,
@@ -583,7 +591,7 @@
       "part_num": 4,
       "file": "008_04_Al_Anfal.pdf",
       "pages": 7,
-      "start_page_index": 586
+      "start_page_index": 594
     },
     {
       "surah_num": 8,
@@ -591,7 +599,7 @@
       "part_num": 5,
       "file": "008_05_Al_Anfal.pdf",
       "pages": 7,
-      "start_page_index": 593
+      "start_page_index": 601
     },
     {
       "surah_num": 9,
@@ -599,7 +607,7 @@
       "part_num": 1,
       "file": "009_01_At_Tawbah.pdf",
       "pages": 9,
-      "start_page_index": 600
+      "start_page_index": 608
     },
     {
       "surah_num": 9,
@@ -607,7 +615,7 @@
       "part_num": 2,
       "file": "009_02_At_Tawbah.pdf",
       "pages": 7,
-      "start_page_index": 609
+      "start_page_index": 617
     },
     {
       "surah_num": 9,
@@ -615,7 +623,7 @@
       "part_num": 3,
       "file": "009_03_At_Tawbah.pdf",
       "pages": 8,
-      "start_page_index": 616
+      "start_page_index": 624
     },
     {
       "surah_num": 9,
@@ -623,7 +631,7 @@
       "part_num": 4,
       "file": "009_04_At_Tawbah.pdf",
       "pages": 7,
-      "start_page_index": 624
+      "start_page_index": 632
     },
     {
       "surah_num": 9,
@@ -631,7 +639,7 @@
       "part_num": 5,
       "file": "009_05_At_Tawbah.pdf",
       "pages": 9,
-      "start_page_index": 631
+      "start_page_index": 639
     },
     {
       "surah_num": 9,
@@ -639,7 +647,7 @@
       "part_num": 6,
       "file": "009_06_At_Tawbah.pdf",
       "pages": 9,
-      "start_page_index": 640
+      "start_page_index": 648
     },
     {
       "surah_num": 9,
@@ -647,7 +655,7 @@
       "part_num": 7,
       "file": "009_07_At_Tawbah.pdf",
       "pages": 9,
-      "start_page_index": 649
+      "start_page_index": 657
     },
     {
       "surah_num": 9,
@@ -655,7 +663,7 @@
       "part_num": 8,
       "file": "009_08_At_Tawbah.pdf",
       "pages": 9,
-      "start_page_index": 658
+      "start_page_index": 666
     },
     {
       "surah_num": 10,
@@ -663,7 +671,7 @@
       "part_num": 1,
       "file": "010_01_Yunus.pdf",
       "pages": 10,
-      "start_page_index": 667
+      "start_page_index": 675
     },
     {
       "surah_num": 10,
@@ -671,7 +679,7 @@
       "part_num": 2,
       "file": "010_02_Yunus.pdf",
       "pages": 9,
-      "start_page_index": 677
+      "start_page_index": 685
     },
     {
       "surah_num": 10,
@@ -679,7 +687,7 @@
       "part_num": 3,
       "file": "010_03_Yunus.pdf",
       "pages": 8,
-      "start_page_index": 686
+      "start_page_index": 694
     },
     {
       "surah_num": 10,
@@ -687,7 +695,7 @@
       "part_num": 4,
       "file": "010_04_Yunus.pdf",
       "pages": 9,
-      "start_page_index": 694
+      "start_page_index": 702
     },
     {
       "surah_num": 10,
@@ -695,7 +703,7 @@
       "part_num": 5,
       "file": "010_05_Yunus.pdf",
       "pages": 11,
-      "start_page_index": 703
+      "start_page_index": 711
     },
     {
       "surah_num": 11,
@@ -703,7 +711,7 @@
       "part_num": 1,
       "file": "011_01_Hud.pdf",
       "pages": 11,
-      "start_page_index": 714
+      "start_page_index": 722
     },
     {
       "surah_num": 11,
@@ -711,7 +719,7 @@
       "part_num": 2,
       "file": "011_02_Hud.pdf",
       "pages": 10,
-      "start_page_index": 725
+      "start_page_index": 733
     },
     {
       "surah_num": 11,
@@ -719,7 +727,7 @@
       "part_num": 3,
       "file": "011_03_Hud.pdf",
       "pages": 8,
-      "start_page_index": 735
+      "start_page_index": 743
     },
     {
       "surah_num": 11,
@@ -727,7 +735,7 @@
       "part_num": 4,
       "file": "011_04_Hud.pdf",
       "pages": 11,
-      "start_page_index": 743
+      "start_page_index": 751
     },
     {
       "surah_num": 11,
@@ -735,7 +743,7 @@
       "part_num": 5,
       "file": "011_05_Hud.pdf",
       "pages": 10,
-      "start_page_index": 754
+      "start_page_index": 762
     },
     {
       "surah_num": 12,
@@ -743,7 +751,7 @@
       "part_num": 1,
       "file": "012_01_Yusuf.pdf",
       "pages": 9,
-      "start_page_index": 764
+      "start_page_index": 772
     },
     {
       "surah_num": 12,
@@ -751,7 +759,7 @@
       "part_num": 2,
       "file": "012_02_Yusuf.pdf",
       "pages": 7,
-      "start_page_index": 773
+      "start_page_index": 781
     },
     {
       "surah_num": 12,
@@ -759,7 +767,7 @@
       "part_num": 3,
       "file": "012_03_Yusuf.pdf",
       "pages": 11,
-      "start_page_index": 780
+      "start_page_index": 788
     },
     {
       "surah_num": 12,
@@ -767,7 +775,7 @@
       "part_num": 4,
       "file": "012_04_Yusuf.pdf",
       "pages": 10,
-      "start_page_index": 791
+      "start_page_index": 799
     },
     {
       "surah_num": 12,
@@ -775,7 +783,7 @@
       "part_num": 5,
       "file": "012_05_Yusuf.pdf",
       "pages": 13,
-      "start_page_index": 801
+      "start_page_index": 809
     },
     {
       "surah_num": 13,
@@ -783,7 +791,7 @@
       "part_num": 1,
       "file": "013_01_Ar_Rad.pdf",
       "pages": 10,
-      "start_page_index": 814
+      "start_page_index": 822
     },
     {
       "surah_num": 13,
@@ -791,7 +799,7 @@
       "part_num": 2,
       "file": "013_02_Ar_Rad.pdf",
       "pages": 12,
-      "start_page_index": 824
+      "start_page_index": 832
     },
     {
       "surah_num": 14,
@@ -799,7 +807,7 @@
       "part_num": 1,
       "file": "014_01_Ibrahim.pdf",
       "pages": 11,
-      "start_page_index": 836
+      "start_page_index": 844
     },
     {
       "surah_num": 14,
@@ -807,7 +815,7 @@
       "part_num": 2,
       "file": "014_02_Ibrahim.pdf",
       "pages": 12,
-      "start_page_index": 847
+      "start_page_index": 855
     },
     {
       "surah_num": 15,
@@ -815,7 +823,7 @@
       "part_num": 1,
       "file": "015_01_Hijr.pdf",
       "pages": 15,
-      "start_page_index": 859
+      "start_page_index": 867
     },
     {
       "surah_num": 15,
@@ -823,7 +831,7 @@
       "part_num": 2,
       "file": "015_02_Hijr.pdf",
       "pages": 14,
-      "start_page_index": 874
+      "start_page_index": 882
     },
     {
       "surah_num": 16,
@@ -831,7 +839,7 @@
       "part_num": 1,
       "file": "016_01_An_Nahl.pdf",
       "pages": 14,
-      "start_page_index": 888
+      "start_page_index": 896
     },
     {
       "surah_num": 16,
@@ -839,7 +847,7 @@
       "part_num": 2,
       "file": "016_02_An_Nahl.pdf",
       "pages": 22,
-      "start_page_index": 902
+      "start_page_index": 910
     },
     {
       "surah_num": 17,
@@ -847,7 +855,7 @@
       "part_num": 1,
       "file": "017_01_Al_Isra.pdf",
       "pages": 10,
-      "start_page_index": 924
+      "start_page_index": 932
     },
     {
       "surah_num": 17,
@@ -855,7 +863,7 @@
       "part_num": 2,
       "file": "017_02_Al_Isra.pdf",
       "pages": 7,
-      "start_page_index": 934
+      "start_page_index": 942
     },
     {
       "surah_num": 17,
@@ -863,7 +871,7 @@
       "part_num": 3,
       "file": "017_03_Al_Isra.pdf",
       "pages": 13,
-      "start_page_index": 941
+      "start_page_index": 949
     },
     {
       "surah_num": 17,
@@ -871,7 +879,7 @@
       "part_num": 4,
       "file": "017_04_Al_Isra.pdf",
       "pages": 16,
-      "start_page_index": 954
+      "start_page_index": 962
     },
     {
       "surah_num": 18,
@@ -879,7 +887,7 @@
       "part_num": 1,
       "file": "018_01_Al_Kahf.pdf",
       "pages": 11,
-      "start_page_index": 970
+      "start_page_index": 978
     },
     {
       "surah_num": 18,
@@ -887,7 +895,7 @@
       "part_num": 2,
       "file": "018_02_Al_Kahf.pdf",
       "pages": 12,
-      "start_page_index": 981
+      "start_page_index": 989
     },
     {
       "surah_num": 18,
@@ -895,7 +903,7 @@
       "part_num": 3,
       "file": "018_03_Al_Kahf.pdf",
       "pages": 20,
-      "start_page_index": 993
+      "start_page_index": 1001
     },
     {
       "surah_num": 19,
@@ -903,7 +911,7 @@
       "part_num": 1,
       "file": "019_01_Maryam.pdf",
       "pages": 17,
-      "start_page_index": 1013
+      "start_page_index": 1021
     },
     {
       "surah_num": 19,
@@ -911,7 +919,7 @@
       "part_num": 2,
       "file": "019_02_Maryam.pdf",
       "pages": 15,
-      "start_page_index": 1030
+      "start_page_index": 1038
     },
     {
       "surah_num": 20,
@@ -919,7 +927,7 @@
       "part_num": 1,
       "file": "020_01_Ta_Ha.pdf",
       "pages": 13,
-      "start_page_index": 1045
+      "start_page_index": 1053
     },
     {
       "surah_num": 20,
@@ -927,7 +935,7 @@
       "part_num": 2,
       "file": "020_02_Ta_Ha.pdf",
       "pages": 15,
-      "start_page_index": 1058
+      "start_page_index": 1066
     },
     {
       "surah_num": 21,
@@ -935,7 +943,7 @@
       "part_num": 1,
       "file": "021_01_Al_Anbiya.pdf",
       "pages": 11,
-      "start_page_index": 1073
+      "start_page_index": 1081
     },
     {
       "surah_num": 21,
@@ -943,7 +951,7 @@
       "part_num": 2,
       "file": "021_02_Al_Anbiya.pdf",
       "pages": 10,
-      "start_page_index": 1084
+      "start_page_index": 1092
     },
     {
       "surah_num": 22,
@@ -951,7 +959,7 @@
       "part_num": 1,
       "file": "022_01_Al_Hajj.pdf",
       "pages": 11,
-      "start_page_index": 1094
+      "start_page_index": 1102
     },
     {
       "surah_num": 22,
@@ -959,7 +967,7 @@
       "part_num": 2,
       "file": "022_02_Al_Hajj.pdf",
       "pages": 10,
-      "start_page_index": 1105
+      "start_page_index": 1113
     },
     {
       "surah_num": 23,
@@ -967,7 +975,7 @@
       "part_num": 1,
       "file": "023_01_Al_Muminoon.pdf",
       "pages": 10,
-      "start_page_index": 1115
+      "start_page_index": 1123
     },
     {
       "surah_num": 23,
@@ -975,7 +983,7 @@
       "part_num": 2,
       "file": "023_02_Al_Muminoon.pdf",
       "pages": 8,
-      "start_page_index": 1125
+      "start_page_index": 1133
     },
     {
       "surah_num": 24,
@@ -983,7 +991,7 @@
       "part_num": 1,
       "file": "024_01_An_Noor.pdf",
       "pages": 11,
-      "start_page_index": 1133
+      "start_page_index": 1141
     },
     {
       "surah_num": 24,
@@ -991,7 +999,7 @@
       "part_num": 2,
       "file": "024_02_An_Noor.pdf",
       "pages": 9,
-      "start_page_index": 1144
+      "start_page_index": 1152
     },
     {
       "surah_num": 25,
@@ -999,7 +1007,7 @@
       "part_num": 1,
       "file": "025_01_Al_Furqan.pdf",
       "pages": 10,
-      "start_page_index": 1153
+      "start_page_index": 1161
     },
     {
       "surah_num": 25,
@@ -1007,7 +1015,7 @@
       "part_num": 2,
       "file": "025_02_Al_Furqan.pdf",
       "pages": 8,
-      "start_page_index": 1163
+      "start_page_index": 1171
     },
     {
       "surah_num": 26,
@@ -1015,7 +1023,7 @@
       "part_num": 1,
       "file": "026_01_Ash_Shuara.pdf",
       "pages": 11,
-      "start_page_index": 1171
+      "start_page_index": 1179
     },
     {
       "surah_num": 26,
@@ -1023,7 +1031,7 @@
       "part_num": 2,
       "file": "026_02_Ash_Shuara.pdf",
       "pages": 7,
-      "start_page_index": 1182
+      "start_page_index": 1190
     },
     {
       "surah_num": 27,
@@ -1031,7 +1039,7 @@
       "part_num": 1,
       "file": "027_01_An_Naml.pdf",
       "pages": 9,
-      "start_page_index": 1189
+      "start_page_index": 1197
     },
     {
       "surah_num": 27,
@@ -1039,7 +1047,7 @@
       "part_num": 2,
       "file": "027_02_An_Naml.pdf",
       "pages": 8,
-      "start_page_index": 1198
+      "start_page_index": 1206
     },
     {
       "surah_num": 28,
@@ -1047,7 +1055,7 @@
       "part_num": 1,
       "file": "028_01_Al_Qasas.pdf",
       "pages": 9,
-      "start_page_index": 1206
+      "start_page_index": 1214
     },
     {
       "surah_num": 28,
@@ -1055,7 +1063,7 @@
       "part_num": 2,
       "file": "028_02_Al_Qasas.pdf",
       "pages": 8,
-      "start_page_index": 1215
+      "start_page_index": 1223
     },
     {
       "surah_num": 29,
@@ -1063,7 +1071,7 @@
       "part_num": 1,
       "file": "029_01_Al_Ankaboot.pdf",
       "pages": 8,
-      "start_page_index": 1223
+      "start_page_index": 1231
     },
     {
       "surah_num": 29,
@@ -1071,7 +1079,7 @@
       "part_num": 2,
       "file": "029_02_Al_Ankaboot.pdf",
       "pages": 7,
-      "start_page_index": 1231
+      "start_page_index": 1239
     },
     {
       "surah_num": 30,
@@ -1079,7 +1087,7 @@
       "part_num": 1,
       "file": "030_01_Ar_Room.pdf",
       "pages": 7,
-      "start_page_index": 1238
+      "start_page_index": 1246
     },
     {
       "surah_num": 30,
@@ -1087,7 +1095,7 @@
       "part_num": 2,
       "file": "030_02_Ar_Room.pdf",
       "pages": 6,
-      "start_page_index": 1245
+      "start_page_index": 1253
     },
     {
       "surah_num": 31,
@@ -1095,7 +1103,7 @@
       "part_num": 1,
       "file": "031_01_Luqman.pdf",
       "pages": 8,
-      "start_page_index": 1251
+      "start_page_index": 1259
     },
     {
       "surah_num": 32,
@@ -1103,7 +1111,7 @@
       "part_num": 1,
       "file": "032_01_As_Sajdah.pdf",
       "pages": 7,
-      "start_page_index": 1259
+      "start_page_index": 1267
     },
     {
       "surah_num": 33,
@@ -1111,7 +1119,7 @@
       "part_num": 1,
       "file": "033_01_Al_Ahzab.pdf",
       "pages": 11,
-      "start_page_index": 1266
+      "start_page_index": 1274
     },
     {
       "surah_num": 33,
@@ -1119,7 +1127,7 @@
       "part_num": 2,
       "file": "033_02_Al_Ahzab.pdf",
       "pages": 6,
-      "start_page_index": 1277
+      "start_page_index": 1285
     },
     {
       "surah_num": 34,
@@ -1127,7 +1135,7 @@
       "part_num": 1,
       "file": "034_01_Saba.pdf",
       "pages": 8,
-      "start_page_index": 1283
+      "start_page_index": 1291
     },
     {
       "surah_num": 35,
@@ -1135,7 +1143,7 @@
       "part_num": 1,
       "file": "035_01_Fatir.pdf",
       "pages": 11,
-      "start_page_index": 1291
+      "start_page_index": 1299
     },
     {
       "surah_num": 36,
@@ -1143,7 +1151,7 @@
       "part_num": 1,
       "file": "036_01_Yaseen.pdf",
       "pages": 7,
-      "start_page_index": 1302
+      "start_page_index": 1310
     },
     {
       "surah_num": 36,
@@ -1151,7 +1159,7 @@
       "part_num": 2,
       "file": "036_02_Yaseen.pdf",
       "pages": 5,
-      "start_page_index": 1309
+      "start_page_index": 1317
     },
     {
       "surah_num": 37,
@@ -1159,7 +1167,7 @@
       "part_num": 1,
       "file": "037_01_As_Saffat.pdf",
       "pages": 6,
-      "start_page_index": 1314
+      "start_page_index": 1322
     },
     {
       "surah_num": 37,
@@ -1167,7 +1175,7 @@
       "part_num": 2,
       "file": "037_02_As_Saffat.pdf",
       "pages": 5,
-      "start_page_index": 1320
+      "start_page_index": 1328
     },
     {
       "surah_num": 38,
@@ -1175,7 +1183,7 @@
       "part_num": 1,
       "file": "038_01_Sad.pdf",
       "pages": 9,
-      "start_page_index": 1325
+      "start_page_index": 1333
     },
     {
       "surah_num": 39,
@@ -1183,7 +1191,7 @@
       "part_num": 1,
       "file": "039_01_Az_Zumar.pdf",
       "pages": 11,
-      "start_page_index": 1334
+      "start_page_index": 1342
     },
     {
       "surah_num": 40,
@@ -1191,7 +1199,7 @@
       "part_num": 1,
       "file": "040_01_Ghafir.pdf",
       "pages": 8,
-      "start_page_index": 1345
+      "start_page_index": 1353
     },
     {
       "surah_num": 41,
@@ -1199,7 +1207,7 @@
       "part_num": 1,
       "file": "041_01_Fussilat.pdf",
       "pages": 8,
-      "start_page_index": 1353
+      "start_page_index": 1361
     },
     {
       "surah_num": 42,
@@ -1207,7 +1215,7 @@
       "part_num": 1,
       "file": "042_01_Ash_Shura.pdf",
       "pages": 5,
-      "start_page_index": 1361
+      "start_page_index": 1369
     },
     {
       "surah_num": 43,
@@ -1215,7 +1223,7 @@
       "part_num": 1,
       "file": "043_01_Az_Zukhruf.pdf",
       "pages": 9,
-      "start_page_index": 1366
+      "start_page_index": 1374
     },
     {
       "surah_num": 44,
@@ -1223,7 +1231,15 @@
       "part_num": 1,
       "file": "044_01_Ad_Dukhan.pdf",
       "pages": 5,
-      "start_page_index": 1375
+      "start_page_index": 1383
+    },
+    {
+      "surah_num": 45,
+      "surah_name": "Al Jathiyah",
+      "part_num": 1,
+      "file": "045_01_Al_Jathiyah.pdf",
+      "pages": 6,
+      "start_page_index": 1388
     },
     {
       "surah_num": 46,
@@ -1231,7 +1247,7 @@
       "part_num": 1,
       "file": "046_01_Al_Ahqaf.pdf",
       "pages": 6,
-      "start_page_index": 1380
+      "start_page_index": 1394
     },
     {
       "surah_num": 47,
@@ -1239,7 +1255,7 @@
       "part_num": 1,
       "file": "047_01_Muhammad.pdf",
       "pages": 6,
-      "start_page_index": 1386
+      "start_page_index": 1400
     },
     {
       "surah_num": 48,
@@ -1247,7 +1263,7 @@
       "part_num": 1,
       "file": "048_01_Al_Fath.pdf",
       "pages": 7,
-      "start_page_index": 1392
+      "start_page_index": 1406
     },
     {
       "surah_num": 49,
@@ -1255,7 +1271,7 @@
       "part_num": 1,
       "file": "049_01_Al_Hujurat.pdf",
       "pages": 6,
-      "start_page_index": 1399
+      "start_page_index": 1413
     },
     {
       "surah_num": 50,
@@ -1263,7 +1279,7 @@
       "part_num": 1,
       "file": "050_01_Qaf.pdf",
       "pages": 5,
-      "start_page_index": 1405
+      "start_page_index": 1419
     },
     {
       "surah_num": 51,
@@ -1271,7 +1287,7 @@
       "part_num": 1,
       "file": "051_01_Adh_Dhariyat.pdf",
       "pages": 6,
-      "start_page_index": 1410
+      "start_page_index": 1424
     },
     {
       "surah_num": 52,
@@ -1279,7 +1295,31 @@
       "part_num": 1,
       "file": "052_01_At_Tur.pdf",
       "pages": 4,
-      "start_page_index": 1416
+      "start_page_index": 1430
+    },
+    {
+      "surah_num": 53,
+      "surah_name": "An Najm",
+      "part_num": 1,
+      "file": "053_01_An_Najm.pdf",
+      "pages": 5,
+      "start_page_index": 1434
+    },
+    {
+      "surah_num": 54,
+      "surah_name": "Al Qamar",
+      "part_num": 1,
+      "file": "054_01_Al_Qamar.pdf",
+      "pages": 5,
+      "start_page_index": 1439
+    },
+    {
+      "surah_num": 55,
+      "surah_name": "Ar Rahman",
+      "part_num": 1,
+      "file": "055_01_Ar_Rahman.pdf",
+      "pages": 5,
+      "start_page_index": 1444
     },
     {
       "surah_num": 56,
@@ -1287,7 +1327,7 @@
       "part_num": 1,
       "file": "056_01_Al_Waqiah.pdf",
       "pages": 6,
-      "start_page_index": 1420
+      "start_page_index": 1449
     },
     {
       "surah_num": 57,
@@ -1295,7 +1335,7 @@
       "part_num": 1,
       "file": "057_01_Al_Hadid.pdf",
       "pages": 6,
-      "start_page_index": 1426
+      "start_page_index": 1455
     },
     {
       "surah_num": 58,
@@ -1303,7 +1343,7 @@
       "part_num": 1,
       "file": "058_01_Al_Mujadilah.pdf",
       "pages": 5,
-      "start_page_index": 1432
+      "start_page_index": 1461
     },
     {
       "surah_num": 59,
@@ -1311,7 +1351,7 @@
       "part_num": 1,
       "file": "059_01_Al_Hashr.pdf",
       "pages": 6,
-      "start_page_index": 1437
+      "start_page_index": 1466
     },
     {
       "surah_num": 60,
@@ -1319,7 +1359,7 @@
       "part_num": 1,
       "file": "060_01_Al_Mumtahanah.pdf",
       "pages": 5,
-      "start_page_index": 1443
+      "start_page_index": 1472
     },
     {
       "surah_num": 61,
@@ -1327,7 +1367,7 @@
       "part_num": 1,
       "file": "061_01_As_Saf.pdf",
       "pages": 4,
-      "start_page_index": 1448
+      "start_page_index": 1477
     },
     {
       "surah_num": 62,
@@ -1335,7 +1375,7 @@
       "part_num": 1,
       "file": "062_01_Al_Jumuah.pdf",
       "pages": 5,
-      "start_page_index": 1452
+      "start_page_index": 1481
     },
     {
       "surah_num": 63,
@@ -1343,7 +1383,7 @@
       "part_num": 1,
       "file": "063_01_Al_Munafiqun.pdf",
       "pages": 5,
-      "start_page_index": 1457
+      "start_page_index": 1486
     },
     {
       "surah_num": 64,
@@ -1351,7 +1391,7 @@
       "part_num": 1,
       "file": "064_01_At_Taghabun.pdf",
       "pages": 5,
-      "start_page_index": 1462
+      "start_page_index": 1491
     },
     {
       "surah_num": 65,
@@ -1359,7 +1399,7 @@
       "part_num": 1,
       "file": "065_01_At_Talaq.pdf",
       "pages": 6,
-      "start_page_index": 1467
+      "start_page_index": 1496
     },
     {
       "surah_num": 66,
@@ -1367,7 +1407,7 @@
       "part_num": 1,
       "file": "066_01_At_Tahrim.pdf",
       "pages": 5,
-      "start_page_index": 1473
+      "start_page_index": 1502
     },
     {
       "surah_num": 67,
@@ -1375,7 +1415,7 @@
       "part_num": 1,
       "file": "067_01_Al_Mulk.pdf",
       "pages": 5,
-      "start_page_index": 1478
+      "start_page_index": 1507
     },
     {
       "surah_num": 68,
@@ -1383,7 +1423,7 @@
       "part_num": 1,
       "file": "068_01_Al_Qalam.pdf",
       "pages": 6,
-      "start_page_index": 1483
+      "start_page_index": 1512
     },
     {
       "surah_num": 69,
@@ -1391,7 +1431,7 @@
       "part_num": 1,
       "file": "069_01_Al_Haqqah.pdf",
       "pages": 5,
-      "start_page_index": 1489
+      "start_page_index": 1518
     },
     {
       "surah_num": 70,
@@ -1399,7 +1439,7 @@
       "part_num": 1,
       "file": "070_01_Al_Maarij.pdf",
       "pages": 5,
-      "start_page_index": 1494
+      "start_page_index": 1523
     },
     {
       "surah_num": 71,
@@ -1407,7 +1447,7 @@
       "part_num": 1,
       "file": "071_01_Nuh.pdf",
       "pages": 6,
-      "start_page_index": 1499
+      "start_page_index": 1528
     },
     {
       "surah_num": 72,
@@ -1415,7 +1455,7 @@
       "part_num": 1,
       "file": "072_01_Al_Jinn.pdf",
       "pages": 5,
-      "start_page_index": 1505
+      "start_page_index": 1534
     },
     {
       "surah_num": 73,
@@ -1423,7 +1463,7 @@
       "part_num": 1,
       "file": "073_01_Al_Muzzammil.pdf",
       "pages": 5,
-      "start_page_index": 1510
+      "start_page_index": 1539
     },
     {
       "surah_num": 74,
@@ -1431,7 +1471,7 @@
       "part_num": 1,
       "file": "074_01_Al_Muddaththir.pdf",
       "pages": 4,
-      "start_page_index": 1515
+      "start_page_index": 1544
     },
     {
       "surah_num": 75,
@@ -1439,7 +1479,7 @@
       "part_num": 1,
       "file": "075_01_Al_Qiyamah.pdf",
       "pages": 5,
-      "start_page_index": 1519
+      "start_page_index": 1548
     },
     {
       "surah_num": 76,
@@ -1447,7 +1487,7 @@
       "part_num": 1,
       "file": "076_01_Al_Insan.pdf",
       "pages": 5,
-      "start_page_index": 1524
+      "start_page_index": 1553
     },
     {
       "surah_num": 77,
@@ -1455,7 +1495,7 @@
       "part_num": 1,
       "file": "077_01_Al_Mursalat.pdf",
       "pages": 5,
-      "start_page_index": 1529
+      "start_page_index": 1558
     },
     {
       "surah_num": 78,
@@ -1463,7 +1503,7 @@
       "part_num": 1,
       "file": "078_01_An_Naba.pdf",
       "pages": 5,
-      "start_page_index": 1534
+      "start_page_index": 1563
     },
     {
       "surah_num": 79,
@@ -1471,7 +1511,7 @@
       "part_num": 1,
       "file": "079_01_An_Naziat.pdf",
       "pages": 5,
-      "start_page_index": 1539
+      "start_page_index": 1568
     },
     {
       "surah_num": 80,
@@ -1479,7 +1519,7 @@
       "part_num": 1,
       "file": "080_01_Abasa.pdf",
       "pages": 5,
-      "start_page_index": 1544
+      "start_page_index": 1573
     },
     {
       "surah_num": 81,
@@ -1487,7 +1527,7 @@
       "part_num": 1,
       "file": "081_01_At_Takwir.pdf",
       "pages": 4,
-      "start_page_index": 1549
+      "start_page_index": 1578
     },
     {
       "surah_num": 82,
@@ -1495,7 +1535,7 @@
       "part_num": 1,
       "file": "082_01_Al_Infitar.pdf",
       "pages": 4,
-      "start_page_index": 1553
+      "start_page_index": 1582
     },
     {
       "surah_num": 83,
@@ -1503,7 +1543,7 @@
       "part_num": 1,
       "file": "083_01_Al_Mutaffifin.pdf",
       "pages": 4,
-      "start_page_index": 1557
+      "start_page_index": 1586
     },
     {
       "surah_num": 84,
@@ -1511,7 +1551,7 @@
       "part_num": 1,
       "file": "084_01_Al_Inshiqaq.pdf",
       "pages": 5,
-      "start_page_index": 1561
+      "start_page_index": 1590
     },
     {
       "surah_num": 85,
@@ -1519,7 +1559,7 @@
       "part_num": 1,
       "file": "085_01_Al_Buruj.pdf",
       "pages": 4,
-      "start_page_index": 1566
+      "start_page_index": 1595
     },
     {
       "surah_num": 86,
@@ -1527,7 +1567,7 @@
       "part_num": 1,
       "file": "086_01_At_Tariq.pdf",
       "pages": 4,
-      "start_page_index": 1570
+      "start_page_index": 1599
     },
     {
       "surah_num": 87,
@@ -1535,7 +1575,7 @@
       "part_num": 1,
       "file": "087_01_Al_Ala.pdf",
       "pages": 4,
-      "start_page_index": 1574
+      "start_page_index": 1603
     },
     {
       "surah_num": 88,
@@ -1543,7 +1583,7 @@
       "part_num": 1,
       "file": "088_01_Al_Ghashiyah.pdf",
       "pages": 4,
-      "start_page_index": 1578
+      "start_page_index": 1607
     },
     {
       "surah_num": 89,
@@ -1551,7 +1591,7 @@
       "part_num": 1,
       "file": "089_01_Al_Fajr.pdf",
       "pages": 4,
-      "start_page_index": 1582
+      "start_page_index": 1611
     },
     {
       "surah_num": 90,
@@ -1559,7 +1599,7 @@
       "part_num": 1,
       "file": "090_01_Al_Balad.pdf",
       "pages": 4,
-      "start_page_index": 1586
+      "start_page_index": 1615
     },
     {
       "surah_num": 91,
@@ -1567,7 +1607,7 @@
       "part_num": 1,
       "file": "091_01_Ash_Shams.pdf",
       "pages": 4,
-      "start_page_index": 1590
+      "start_page_index": 1619
     },
     {
       "surah_num": 92,
@@ -1575,7 +1615,7 @@
       "part_num": 1,
       "file": "092_01_Al_Layl.pdf",
       "pages": 5,
-      "start_page_index": 1594
+      "start_page_index": 1623
     },
     {
       "surah_num": 93,
@@ -1583,7 +1623,7 @@
       "part_num": 1,
       "file": "093_01_Ad_Duha.pdf",
       "pages": 3,
-      "start_page_index": 1599
+      "start_page_index": 1628
     },
     {
       "surah_num": 94,
@@ -1591,7 +1631,7 @@
       "part_num": 1,
       "file": "094_01_Al_Inshirah.pdf",
       "pages": 3,
-      "start_page_index": 1602
+      "start_page_index": 1631
     },
     {
       "surah_num": 95,
@@ -1599,7 +1639,7 @@
       "part_num": 1,
       "file": "095_01_At_Tin.pdf",
       "pages": 3,
-      "start_page_index": 1605
+      "start_page_index": 1634
     },
     {
       "surah_num": 96,
@@ -1607,7 +1647,7 @@
       "part_num": 1,
       "file": "096_01_Al_Alaq.pdf",
       "pages": 4,
-      "start_page_index": 1608
+      "start_page_index": 1637
     },
     {
       "surah_num": 97,
@@ -1615,7 +1655,7 @@
       "part_num": 1,
       "file": "097_01_Al_Qadr.pdf",
       "pages": 3,
-      "start_page_index": 1612
+      "start_page_index": 1641
     },
     {
       "surah_num": 98,
@@ -1623,7 +1663,7 @@
       "part_num": 1,
       "file": "098_01_Al_Bayyinah.pdf",
       "pages": 4,
-      "start_page_index": 1615
+      "start_page_index": 1644
     },
     {
       "surah_num": 99,
@@ -1631,7 +1671,7 @@
       "part_num": 1,
       "file": "099_01_Az_Zalzalah.pdf",
       "pages": 3,
-      "start_page_index": 1619
+      "start_page_index": 1648
     },
     {
       "surah_num": 100,
@@ -1639,7 +1679,7 @@
       "part_num": 1,
       "file": "100_01_Al_Adiyat.pdf",
       "pages": 3,
-      "start_page_index": 1622
+      "start_page_index": 1651
     },
     {
       "surah_num": 101,
@@ -1647,7 +1687,7 @@
       "part_num": 1,
       "file": "101_01_Al_Qariah.pdf",
       "pages": 3,
-      "start_page_index": 1625
+      "start_page_index": 1654
     },
     {
       "surah_num": 102,
@@ -1655,7 +1695,7 @@
       "part_num": 1,
       "file": "102_01_At_Takathur.pdf",
       "pages": 3,
-      "start_page_index": 1628
+      "start_page_index": 1657
     },
     {
       "surah_num": 103,
@@ -1663,7 +1703,7 @@
       "part_num": 1,
       "file": "103_01_Al_Asr.pdf",
       "pages": 3,
-      "start_page_index": 1631
+      "start_page_index": 1660
     },
     {
       "surah_num": 104,
@@ -1671,7 +1711,7 @@
       "part_num": 1,
       "file": "104_01_Al_Humazah.pdf",
       "pages": 3,
-      "start_page_index": 1634
+      "start_page_index": 1663
     },
     {
       "surah_num": 105,
@@ -1679,7 +1719,7 @@
       "part_num": 1,
       "file": "105_01_Al_Fil.pdf",
       "pages": 3,
-      "start_page_index": 1637
+      "start_page_index": 1666
     },
     {
       "surah_num": 106,
@@ -1687,7 +1727,7 @@
       "part_num": 1,
       "file": "106_01_Quraysh.pdf",
       "pages": 3,
-      "start_page_index": 1640
+      "start_page_index": 1669
     },
     {
       "surah_num": 107,
@@ -1695,7 +1735,7 @@
       "part_num": 1,
       "file": "107_01_Al_Maun.pdf",
       "pages": 3,
-      "start_page_index": 1643
+      "start_page_index": 1672
     },
     {
       "surah_num": 108,
@@ -1703,7 +1743,7 @@
       "part_num": 1,
       "file": "108_01_Al_Kawthar.pdf",
       "pages": 3,
-      "start_page_index": 1646
+      "start_page_index": 1675
     },
     {
       "surah_num": 109,
@@ -1711,7 +1751,7 @@
       "part_num": 1,
       "file": "109_01_Al_Kafirun.pdf",
       "pages": 3,
-      "start_page_index": 1649
+      "start_page_index": 1678
     },
     {
       "surah_num": 110,
@@ -1719,7 +1759,7 @@
       "part_num": 1,
       "file": "110_01_An_Nasr.pdf",
       "pages": 3,
-      "start_page_index": 1652
+      "start_page_index": 1681
     },
     {
       "surah_num": 111,
@@ -1727,7 +1767,7 @@
       "part_num": 1,
       "file": "111_01_Al_Masad.pdf",
       "pages": 3,
-      "start_page_index": 1655
+      "start_page_index": 1684
     },
     {
       "surah_num": 112,
@@ -1735,7 +1775,7 @@
       "part_num": 1,
       "file": "112_01_Al_Ikhlas.pdf",
       "pages": 4,
-      "start_page_index": 1658
+      "start_page_index": 1687
     },
     {
       "surah_num": 113,
@@ -1743,7 +1783,7 @@
       "part_num": 1,
       "file": "113_01_Al_Falaq.pdf",
       "pages": 3,
-      "start_page_index": 1662
+      "start_page_index": 1691
     },
     {
       "surah_num": 114,
@@ -1751,7 +1791,7 @@
       "part_num": 1,
       "file": "114_01_An_Nas.pdf",
       "pages": 3,
-      "start_page_index": 1665
+      "start_page_index": 1694
     }
   ]
 }
