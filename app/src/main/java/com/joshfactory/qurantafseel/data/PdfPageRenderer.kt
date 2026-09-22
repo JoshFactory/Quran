@@ -13,7 +13,7 @@ import java.io.File
 import java.util.concurrent.Executors
 
 /**
- * Renders pages from the bundled PDFs (assets/pdfs/*.pdf) into bitmaps for
+  * Renders pages from the bundled PDFs (assets/pdfs/ *.pdf) into bitmaps for
  * display in the flipbook, on a background thread.
  *
  * android.graphics.pdf.PdfRenderer needs a real file descriptor, so each PDF
