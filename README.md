@@ -4,21 +4,21 @@ An Android app that presents your "Quran with Tafseel" PDFs as a single
 continuous flipbook, opening at Surah 1 (Al-Fatiha) and ending at Surah 114
 (An-Nas), with a real 3D page-turn animation and a "Jump to Surah" list.
 
-## ⚠️ Before you build: 4 surahs are missing
+## All 114 surahs are included
 
-Your source zip is missing **Surah 45 (Al-Jathiya), 53 (An-Najm), 54
-(Al-Qamar), and 55 (Ar-Rahman)**. The app will build and work fine without
-them — the flipbook will just skip straight from Surah 44 to 56 — but if you
-want them included:
+The flipbook runs the full Quran, Surah 1 (Al-Fatiha) through Surah 114
+(An-Nas), with tafseel.
 
-1. Add the 4 missing `Surah_0NN_....pdf` files into your original zip (same
-   naming style as the rest, e.g. `Surah_045_Al_Jathiya_Complete.pdf`).
-2. Run: `pip install pypdf` then `python3 tools/build_manifest.py your_updated.zip`
-3. Commit and push — the Action below rebuilds the APK automatically.
-
-The same command is how you fix or replace *any* surah later — it always
-regenerates `app/src/main/assets/` from scratch from whatever zip you point
-it at, so there's nothing to hand-edit.
+If you ever need to replace or update any surah's PDF later, just add the
+new file(s) into a zip (same naming style as the rest, e.g.
+`Surah_045_Al_Jathiya_Complete.pdf`), then run:
+```bash
+pip install pypdf
+python3 tools/build_manifest.py your_updated.zip
+```
+and commit + push — the Action below rebuilds the APK automatically. This
+always regenerates `app/src/main/assets/` from scratch from whatever zip you
+point it at, so there's nothing to hand-edit.
 
 ## Getting an installable APK (no Android Studio needed)
 
@@ -52,10 +52,10 @@ Release automatically — handy once you add the missing surahs.
 
 ## What's actually in the app
 
-- **1,668 pages** across 219 bundled PDFs (110 of 114 surahs currently),
-  read in true Quran order: surah number ascending, and each surah's parts
-  in ascending order, so multi-part surahs (like Al-Baqarah's 19 parts)
-  read seamlessly as one continuous section.
+- **1,697 pages** across 224 bundled PDFs, covering all **114 of 114
+  surahs**, read in true Quran order: surah number ascending, and each
+  surah's parts in ascending order, so multi-part surahs (like Al-Baqarah's
+  19 parts) read seamlessly as one continuous section.
 - **Real 3D page-turn animation** — pages rotate around their spine edge
   with proper perspective, not just a flat slide. This uses Android's own
   `View.rotationY` + `cameraDistance` (see `BookFlipPageTransformer.kt`) —
@@ -79,7 +79,7 @@ Release automatically — handy once you add the missing surahs.
 ```
 app/src/main/
   assets/manifest.json       — generated reading order (don't hand-edit; see tools/)
-  assets/pdfs/                — the 219 source PDFs, renamed to sort correctly
+  assets/pdfs/                — the 224 source PDFs, renamed to sort correctly
   java/.../data/               — manifest loading + PDF page rendering
   java/.../ui/                 — the flip animation, page & surah-list adapters
   java/.../MainActivity.kt     — wires it all together
